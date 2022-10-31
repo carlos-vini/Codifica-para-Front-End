@@ -1,4 +1,4 @@
-# Codifica-para-Front-End
+# Codificacao-para-Front-End
 
 ### Exercícios para o aprendizado de Codificação para Front-End com HTML5, CSS3 e JS.
 
