@@ -1,0 +1,29 @@
+.container{
+    width: 900px;
+    background-color: black;
+}
+
+.nav{
+    background-color: #708090;
+    padding: 1rem;
+}
+
+.nav-item{
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    padding: .8rem;
+}
+
+main{
+    color: #FFF;
+}
+
+.contato{
+    font-style: italic;
+}
+
+footer p{
+    color: rgb(138, 127, 127);
+    text-align: center;
+}
